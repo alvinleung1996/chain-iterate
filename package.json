@@ -1,0 +1,14 @@
+{
+  "name": "@alvinleung1996/chain-iterate",
+  "version": "1.0.0",
+  "description": "Iterate utilities in chain function format",
+  "main": "./chain-iterate.js",
+  "author": "Alvin Leung 1996",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
